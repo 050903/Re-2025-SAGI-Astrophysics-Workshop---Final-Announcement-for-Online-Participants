@@ -60,26 +60,26 @@ Một số hình ảnh có chú thích “AI-generated content may be incorrect,
 Trình bày chi tiết các nội dung
 Dưới đây là tóm tắt các nội dung cụ thể dựa trên từng loại hình ảnh:
 
-Công thức toán học (Hình 2, 3):
+#### Công thức toán học (Hình 2, 3):
 Có thể là các phương trình liên quan đến lực hấp dẫn, từ trường, hoặc năng lượng trong các hệ thống thiên văn.
 Ứng dụng: Cung cấp nền tảng lý thuyết cho các mô phỏng hoặc phân tích.
-Sơ đồ từ trường (Hình 8, 11):
+#### Sơ đồ từ trường (Hình 8, 11):
 Minh họa cấu trúc từ trường hoặc các quá trình thư giãn từ tính.
 Ứng dụng: Nghiên cứu từ trường trong không gian, như trong đĩa tiền hành tinh hoặc thiên hà.
 Đồ thị dữ liệu (Hình 12, 13, 14, 15, 16, 24, 25, 26, 28, 29, 30, 31):
 Các đồ thị này có thể biểu thị các đại lượng vật lý như mật độ, vận tốc, hoặc năng lượng trong các mô phỏng.
 Ứng dụng: So sánh dữ liệu mô phỏng với lý thuyết hoặc thí nghiệm, hoặc đánh giá hiệu suất của các mô hình.
 Hình ảnh thiên văn (Hình 18, 22, 26):
-Minh họa các hành tinh, bụi vũ trụ, hoặc đám mây khí.
+#### Minh họa các hành tinh, bụi vũ trụ, hoặc đám mây khí.
 Ứng dụng: Nghiên cứu sự hình thành cấu trúc vũ trụ, như sao, hành tinh, hoặc thiên hà.
-Ảnh chụp màn hình phần mềm (Hình 17, 20, 21, 23, 24, 27, 28, 33):
+#### Ảnh chụp màn hình phần mềm (Hình 17, 20, 21, 23, 24, 27, 28, 33):
 Hiển thị giao diện của các công cụ mô phỏng hoặc phân tích dữ liệu.
 Ứng dụng: Hướng dẫn sử dụng phần mềm hoặc trình bày kết quả mô phỏng.
-Sơ đồ hình học và mô hình (Hình 10, 19, 31, 32):
+#### Sơ đồ hình học và mô hình (Hình 10, 19, 31, 32):
 Minh họa các cấu trúc lý thuyết hoặc mô hình hóa các hệ thống phức tạp.
 Ứng dụng: Giải thích các khái niệm trừu tượng hoặc mô phỏng các hệ thống vật lý.
-Kết luận
-Tài liệu SAGI Workshop.docx là một tài liệu học thuật chuyên sâu, có thể được sử dụng trong các hội thảo, khóa học, hoặc báo cáo nghiên cứu về vật lý thiên văn, từ trường, và mô phỏng vũ trụ. Các hình ảnh trong tài liệu minh họa các khái niệm lý thuyết, kết quả mô phỏng, và cách sử dụng công cụ tính toán. Tài liệu này phù hợp cho các nhà nghiên cứu, sinh viên, hoặc chuyên gia trong lĩnh vực khoa học vũ trụ.
+### Kết luận
+## Tài liệu SAGI Workshop.docx là một tài liệu học thuật chuyên sâu, có thể được sử dụng trong các hội thảo, khóa học, hoặc báo cáo nghiên cứu về vật lý thiên văn, từ trường, và mô phỏng vũ trụ. Các hình ảnh trong tài liệu minh họa các khái niệm lý thuyết, kết quả mô phỏng, và cách sử dụng công cụ tính toán. Tài liệu này phù hợp cho các nhà nghiên cứu, sinh viên, hoặc chuyên gia trong lĩnh vực khoa học vũ trụ.
 
 -----------
 ## 1. LICENSE Academic Paper (CC BY-NC 4.0)
